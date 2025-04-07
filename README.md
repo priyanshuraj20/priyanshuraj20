@@ -32,9 +32,7 @@
 ---
 
 ## 🤝 Let's Connect:
-- LinkedIn: [https://www.linkedin.com/in/priyanshu-raj-8b4140308/]  
-- Twitter: [Your Link]  
-- GSSoC Contributor  
+- LinkedIn: [https://www.linkedin.com/in/priyanshu-raj-8b4140308/]   
 - Open Source Learner  
 
 ---
