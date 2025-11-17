@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **DSA in Java, Web Development, Open Source Contribution**
 
-- 🔭 Currently participating in **GirlScript Summer of Code (GSSoC 2025)**
-
 - 👯 I’m looking to collaborate on **Open Source Projects and Real-World Development**
 
 - 💡 Exploring **Google STEP Internship Preparation**  
