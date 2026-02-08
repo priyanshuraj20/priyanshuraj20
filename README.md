@@ -98,6 +98,3 @@ I may be early in my career — but I think like an engineer, not a student.
 🤖 AI-powered web applications
 
 🌐 Open Source Contributions
-
-📈 Contribution Graph (Animated)
-<p align="center"> <img src="https://github.com/priyanshuraj20/priyanshuraj20/blob/output/github-contribution-grid-snake.svg" /> </p>
