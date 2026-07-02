@@ -1,82 +1,153 @@
-```markdown
-# 📟 `priyanshu@root:~$` voxa-ssh -t engineer
+<h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
 
-```bash
-$ connecting to priyanshuraj20.db...
-[========================================] 100%
-$ status --check
-🟢 System Online
-🟢 Active Projects: 2 (Dentwise SaaS, Voxa AI Engine)
-🟢 DSA Runtime Complexity: O(log N)
-```
-
-> **I am a Computer Science Engineer who builds products end-to-end. I don't write scripts to pass classes — I design systems that solve real-world latency, synchronization, and scaling challenges.**
-
----
-
-## 🛠️ System Architecture & Stack Configuration
-
-```yaml
-system:
-  runtime: [Java, TypeScript, Python, Node.js]
-  frontend:
-    framework: Next.js 15 (App Router, Server Actions)
-    design_system: TailwindCSS, Glassmorphism, WebGL Shaders
-  backend:
-    engine: FastAPI (Python), Express (Node)
-    protocols: WebSockets (Binary streaming), REST APIs
-  storage:
-    relational: PostgreSQL, MySQL
-    orms: Prisma ORM, SQLAlchemy
-  infrastructure:
-    orchestration: Docker
-    cloud_delivery: Vercel, Railway, Git-based CI/CD
-```
-
----
-
-## 🚀 Systems Under Construction
-
-### 🌍 [Voxa AI — Real-Time Multilingual Speech Translator](https://github.com/priyanshuraj20/Voxa-ai)
-> **Engineering Focus:** *Sub-second latency, binary streaming, and offline digital signal processing (DSP).*
-* **The Challenge:** Translating audio in real-time without introducing lag or sending massive audio files to APIs.
-* **The Architecture:** 
-  - **Ingestion:** Browser AudioContext downsamples client microphones to `16kHz Mono`, converts `Float32` frames into `Int16` PCM, and streams binary buffers over persistent WebSockets.
-  - **Local Speaker Separation:** Implemented a CPU-only pitch estimation diarizer. Uses Fast Fourier Transforms (FFT) to isolate vocal peak frequencies ($80\text{ Hz} - 300\text{ Hz}$) and attributes text to specific speakers dynamically.
-  - **Correction Pipeline:** Sequence pipes raw Whisper transcripts into sequential Llama 3.1 agents for punctuation & grammar correction before executing the NLLB-200 translation model.
-
-### 🦷 [Dentwise — AI-Powered Dental SaaS Platform](https://www.dentwise.live)
-> **Engineering Focus:** *Multi-tenant SaaS pipelines, AI integration, and state synchronization.*
-* **The Challenge:** Automating booking workflows and dentist scheduling with automated conversational voice assistants.
-* **The Architecture:**
-  - **Booking Engine:** Implemented a multi-step scheduler synchronized using Next.js Server Actions and PostgreSQL.
-  - **AI Voice Agent:** Scaled real-world phone/voice assistant calls integrated with Vapi.
-  - **Infrastructure:** Secured using Clerk OAuth/OTP layers, database schemas handled via Prisma, and billing pipelines integrated with Stripe.
-
----
-
-## 📊 Performance Metrics
+<h3 align="center">
+Backend Engineer • Full Stack Developer • AI Application Developer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuraj20&show_icons=true&theme=tokyonight&count_private=true" alt="Priyanshu's Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuraj20&layout=compact&theme=tokyonight" alt="Priyanshu's Languages" width="47%" />
+Building scalable software, AI-powered products, and backend systems that solve real-world problems.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0891B2&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Building+AI-Powered+Products;Always+Learning+%26+Building" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🔗 Port Mappings (Connect with me)
+# 👨‍💻 About Me
 
-```bash
-$ curl -X GET https://priyanshuraj.net/contact
-```
-* **LinkedIn:** [/in/your-linkedin-username]()
-* **Email:** [your-email@domain.com](mailto:your-email@domain.com)
-* **Location:** `Parul University, Gujarat, India`
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Backend Development, System Design & AI Applications
+- 🚀 Building production-ready full-stack applications
+- 🌱 Currently learning **Spring Boot, Distributed Systems & Cloud**
+- 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
-```bash
-$ exit
-Connection to priyanshuraj20 closed.
-```
-```
+# 🚀 Currently Building
+
+### 🏥 HealthBridge
+**AI-Powered Unified Healthcare Platform**
+
+A modern healthcare ecosystem connecting patients, hospitals, doctors, AI assistants, telemedicine, affordability planning, insurance guidance, and digital health records.
+
+**Tech**
+
+`React` • `Node.js` • `Express` • `MongoDB` • `Cloudinary` • `OpenRouter` • `Gemini` • `Jitsi`
+
+---
+
+### 🌍 Voxa AI
+
+Real-time multilingual speech translation platform powered by AI.
+
+---
+
+### 🦷 DentWise
+
+Modern SaaS platform for digital dental clinic management.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,redis,kubernetes,aws" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Microservices
+- System Design
+- Docker
+- Kubernetes
+- Redis
+- AWS
+- Scalable Backend Architecture
+- AI Application Development
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Land a Software Development Internship
+- 🚀 Build production-ready AI applications
+- 📖 Master Spring Boot & Backend Engineering
+- ☁️ Learn Cloud & DevOps
+- 🧠 Strengthen System Design
+- 🌍 Contribute to Open Source
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_X" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> **"Great software isn't measured by the amount of code written, but by the problems it solves."**
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+*"Code. Learn. Build. Improve. Repeat."*
+
+⭐ If you like my projects, consider giving them a star.
+
+</div>
